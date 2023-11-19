@@ -1,6 +1,6 @@
 # Brief-php :Projet DataWare - Gestion des Ressources Humaines
 # Concepteur Logiciel
-1-En tant que concepteur logiciel, je dois créer un diagramme de cas d'utilisation pour identifier les interactions entre les utilisateurs et le système.
+1-En tant que concepteur logiciel, je dois créer un diagramme de cas d'utilisation pour identifier les interactions entre les utilisateurs et le système. /n
 2-En tant que concepteur logiciel, je dois concevoir un diagramme de classe représentant les entités principales telles que les Équipes et les Membres du personnel, ainsi que leurs relations.
 3-En tant que concepteur logiciel, je dois élaborer un diagramme de séquence illustrant les interactions entre le système et les utilisateurs lors de l'ajout, de la modification et de la suppression de données.
 # Administrateur de Base de Données
